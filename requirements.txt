@@ -1,0 +1,4 @@
+spacy
+spacy-streamlit
+streamlit
+pandas
